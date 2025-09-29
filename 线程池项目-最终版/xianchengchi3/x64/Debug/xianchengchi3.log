@@ -1,0 +1,10 @@
+﻿  线程池项目-最终版.cpp
+  线程池项目-最终版_1.cpp
+  正在生成代码...
+线程池项目-最终版_1.obj : error LNK2005: "void __cdecl io_thread(int)" (?io_thread@@YAXH@Z) 已经在 线程池项目-最终版.obj 中定义
+线程池项目-最终版_1.obj : error LNK2005: "int __cdecl sum1(int,int)" (?sum1@@YAHHH@Z) 已经在 线程池项目-最终版.obj 中定义
+线程池项目-最终版_1.obj : error LNK2005: "int __cdecl sum2(int,int,int)" (?sum2@@YAHHHH@Z) 已经在 线程池项目-最终版.obj 中定义
+线程池项目-最终版_1.obj : error LNK2005: "void __cdecl worker_thread(int)" (?worker_thread@@YAXH@Z) 已经在 线程池项目-最终版.obj 中定义
+线程池项目-最终版_1.obj : error LNK2005: main 已经在 线程池项目-最终版.obj 中定义
+线程池项目-最终版_1.obj : error LNK2005: "private: static int Thread::generateId_" (?generateId_@Thread@@0HA) 已经在 线程池项目-最终版.obj 中定义
+D:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目-最终版\x64\Debug\xianchengchi3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
